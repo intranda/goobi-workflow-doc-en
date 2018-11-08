@@ -1,4 +1,4 @@
-# 4. Goobi Anwender
+# 4. Goobi Users
 
-Grundsätzlich handelt es sich bei Goobi um eine Webanwendung. Die Benutzung und Bedienung entspricht damit weitestgehend einer Arbeitsweise wie man sie von verschiedenen Webseiten gewohnt ist. Die einzige Voraussetzung für die Arbeit mit Goobi ist auf Seiten des Nutzers, dass ein Internetzugang besteht und mit einem Web-Browser die Adresse von Goobi geöffnet wird.
+Basically, Goobi is a web-based application. To a very large extent, the way it is used and operated will be familiar to you from numerous websites. On the user side, all you need to be able to use Goobi is access to the internet and a web browser to take you to the Goobi site.
 

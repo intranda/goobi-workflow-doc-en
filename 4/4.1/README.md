@@ -1,14 +1,15 @@
-# 4.1.  Allgemeines
+# 4.1.  The basics
 
-Bevor auf die Arbeitsweise spezieller Nutzergruppen im Detail eingegangen wird, soll zunächst einmal einiges Allgemeines geklärt werden. Begriffe, die an dieser Stelle verwendet werden und deren Bedeutung nicht klar wird, werden im Glossar näher erläutert.
+Before we look in detail at the methodology of specific user groups, let us take a look at some basics. Any of the terms used in this section that may not be familiar to you can be found together with an explanation in the glossary.
 
-Wenn Sie Goobi zum ersten Mal öffnen möchten, besuchen Sie in Ihrem Web-Browser einfach die Adresse ihrer lokalen Goobi-Installation. Beispiel:
+To open Goobi for the first time, simply type the address of your local Goobi installation in your browser’s address bar, for example: 
 
 ```text
 http://goobi.intranda.com
 ```
 
-In Ihrem Web-Browser sollte Goobi ähnlich wie in folgender Abbildung sichtbar werden.
+The page displayed by your browser should be similar to the one below:  
 
-![Startseite von Goobi](../../.gitbook/assets/01d.png)
+
+![Goobi start page](../../.gitbook/assets/01d.png)
 
