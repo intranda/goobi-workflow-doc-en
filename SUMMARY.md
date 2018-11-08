@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Goobi workflow Handbook](README.md)
 
