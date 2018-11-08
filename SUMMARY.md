@@ -2,10 +2,10 @@
 
 * [Goobi workflow Handbook](README.md)
 * [1. Introduction](1.md)
-* [2. Dokumentationsübersicht](2/README.md)
-  * [2.1. Goobi Anwender](2/2.1.md)
-  * [2.2. Goobi Management](2/2.2.md)
-  * [2.3. Goobi Administration](2/2.3.md)
+* [2. Overview of documentation](2/README.md)
+  * [2.1. Goobi User](2/2.1.md)
+  * [2.2. Goobi Managers](2/2.2.md)
+  * [2.3. Goobi Administrators](2/2.3.md)
 * [3. Was ist Goobi?](3.md)
 * [4. Goobi Anwender](4/README.md)
   * [4.1.  Allgemeines](4/4.1/README.md)
@@ -84,5 +84,4 @@
     * [6.5.3. Automatisches Löschen von Images](6/6.5/6.5.3.md)
 * [7. Glossar und Abkürzungen](7.md)
 * [8. Zusätzliche Details](8.md)
-
 

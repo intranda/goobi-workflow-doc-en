@@ -1,4 +1,4 @@
-# 2. Dokumentationsübersicht
+# 2. Overview of documentation
 
-Die Dokumentation von Goobi wurde durch die intranda GmbH erstellt. Sie unterteilt sich insgesamt in drei unterschiedliche Bereiche, die jeweils einen anderen Fokus auf die gleiche Software haben. Es handelt sich dabei einerseits um die Anwender, andererseits um die Projektleiter und als letztes um die Administratoren.
+All the official documentation relating to Goobi has been produced by intranda GmbH. It is divided into three main areas, each with a different focus on the same application, and aimed respectively at users, project managers and administrators.
 

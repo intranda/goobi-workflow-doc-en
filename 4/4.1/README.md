@@ -12,5 +12,3 @@ In Ihrem Web-Browser sollte Goobi ähnlich wie in folgender Abbildung sichtbar w
 
 ![Startseite von Goobi](../../.gitbook/assets/01d.png)
 
-
-
