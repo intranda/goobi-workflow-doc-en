@@ -11,5 +11,5 @@ http://goobi.intranda.com
 The page displayed by your browser should be similar to the one below:  
 
 
-![Goobi start page](../../.gitbook/assets/01d.png)
+![Goobi start page](../../.gitbook/assets/01e.png)
 
