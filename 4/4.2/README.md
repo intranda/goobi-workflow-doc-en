@@ -1,4 +1,4 @@
-# 4.2. Arbeiten mit Goobi für spezielle Benutzergruppen
+# 4.2. How different user groups work with Goobi
 
-Im folgenden Kapitel wird beispielhaft an einigen typischen Benutzergruppen erläutert, wie diese in Digitalisierungsprojekten häufig an zahlreichen Einrichtungen anzutreffen sind und wie die tägliche Arbeit mit Goobi stattfindet. Benutzergruppen oder Arbeitsweisen, die in Ihrer Einrichtung bestehen, aber in den folgenden Beispielen nicht vertreten sind, durchlaufen die Arbeiten ähnlich wie in den hier aufgeführten Beispielen. Sämtliche hier aufgeführten Beispiele sind somit also auch übertragbar auf individuelle Workflows und andere projektspezifische Besonderheiten.
+The next section examines some typical user groups in order to illustrate their structure as part of digitisation projects at numerous establishments and the way they work with Goobi on a daily basis. In terms of the way tasks are performed, any user groups or methods that may be in place at your own establishment but not specifically represented below will nevertheless work along similar lines to those shown in the examples. Accordingly, all the examples given are also applicable to individual workflows and other project-specific arrangements.
 
