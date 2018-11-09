@@ -1,4 +1,4 @@
 # 5. Goobi Management
 
-Im folgenden erhalten Sie einen ausführlichen Einblick in das Anlegen von Workflows, das Verwalten von Projekten, Benutzern, Benutzergruppen, Controllingfunktionen, Regelsätzen sowie in weitere Bereiche.
+In the following sections you will get a detailed overview of several management areas, as for example for the creation of workflows, management of projects, users, user groups, statistics and rulesets.
 

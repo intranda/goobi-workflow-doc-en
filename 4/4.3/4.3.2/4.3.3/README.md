@@ -1,4 +1,4 @@
-# 4.3.3. Änderung und Prüfung von Daten
+# 4.3.3. Modifying and verifying data
 
-Im Folgenden werden einige weitere Funktionen des METS-Editors erläutert, die unmittelbar Änderungen im Dateisystem der Bilder vornehmen. Aus diesem Grund sollten die nachfolgend beschriebenen Funktionen ausschließlich mit großer Sorgfalt verwendet werden.
+This section explains a number of additional functions in the METS Editor that involve directly modifying the file system for the images. For this reason you should take great care when using the functions described below.
 
