@@ -1,10 +1,10 @@
-# 6.5. Automatische Workflowschritte
+# 6.5. Automatic workflow steps
 
-Goobi bietet die Möglichkeit Workflowschritte als automatisch zu kennzeichnen. Diese Schritte werden automatisch geöffnet und ausgeführt, wenn der jeweils vorherige Schritt innerhalb des Workflows erfolgreich abgeschlossen wurde. Sobald im automatischen Workflowschritt ein Fehler auftritt, bleibt dieser Arbeitsschritt stehen und wird nicht weiter bearbeitet.
+Goobi allows you to mark individual tasks as automatic. These tasks are opened and performed automatically once the preceding workflow task has been completed. Whenever an error occurs in such an automatic workflow task, that task will remain paused and will not be processed any further.
 
-![Ein konfigurierter automatischer Arbeitsschritt](../../.gitbook/assets/085d.png)
+![A configured automatic workflow step](../../.gitbook/assets/085d.png)
 
-Um einen Workflowschritt als automatisch zu kennzeichnen, muss die Checkbox `Automatische Aufgabe` aktiviert sein. Diese befindet sich in den Aufgabendetails für eine Aufgabe, wie in der nachfolgenden Abbildung ersichtlich:
+To mark a workflow task as automatic, you need to activate the `Automatic task` checkbox. This is located in the Task details box as shown in the following screenshot:
 
-![Konfiguration f&#xFC;r automatische Workflowschritte](../../.gitbook/assets/86d.png)
+![Configuration for automatic workflow steps](../../.gitbook/assets/86d.png)
 

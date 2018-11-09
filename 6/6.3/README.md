@@ -1,8 +1,9 @@
-# 6.3. Export in digitale Bibliotheken
+# 6.3. Exporting to digital libraries
 
-Goobi bietet die Möglichkeit, Vorgänge samt ihrer digitalisierten Objekte zu digitalen Bibliotheken zu exportieren. Grundsätzlich wird die XML-Datei \(`METS`\) zuletzt exportiert. Vorher erfolgt in der Regel der Export der Bilder und gegebenenfalls der OCR-Ergebnisse oder anderen digitalen Objekten \(z.B. Audiodateien, Videodateien, Born-Digital-Daten\).
+Goobi allows users to export processes \(together with all their digitised objects\) to digital libraries. As a rule, the XML file \(METS\) is exported last. It is generally preceded by any images, OCR results and other digital objects \(e.g. audio files, video files, born digital data\). 
 
-Nachfolgende Systeme wie zum Beispiel der Solr Indexer von intranda überwachen den Hotfolder und beginnen dann zu arbeiten, wenn ein definiertes Ereignis eintritt. Da die XML-Datei zuletzt exportiert wird, ist sichergestellt, dass dem Solr Indexer alle anderen benötigten Dateien bereits zur Verfügung stehen und die Abarbeitung beginnen kann, sobald auch diese Datei vorliegt.
+The following systems \(e.g. intranda’s Solr Indexer\) monitor the hotfolder and start to function when a specifically defined event occurs. Exporting the XML files last of all ensures that all the other files needed have been made available to the Solr Indexer. In this way, processing can begin as soon as the XML file is exported
 
-Für den Export gibt es verschiedene Parameter, die in Goobi konfiguriert werden können. Diese befinden sich in den Projekteigenschaften im Reiter `Technische Daten` und `Mets-Parameter`.
+The different export parameters can be configured in Goobi. They are located under project properties in the `Technical data` and `Mets parameters` tabs.  
+
 

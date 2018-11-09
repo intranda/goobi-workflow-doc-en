@@ -1,4 +1,4 @@
 # 6. Goobi Administration
 
-Dieses Kapitel beinhaltet Themenbereiche wie z.B die Konfigurationen und die Feinjustierung verschiedener Einstellungsmöglichkeiten, die Datensicherheit sowie Informationen über Metadaten und Mappings.
+This section includes several topics as for example configuration and granular adaption for data protection as well as information about metadata and mappings.
 

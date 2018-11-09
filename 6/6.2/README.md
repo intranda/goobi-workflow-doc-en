@@ -1,4 +1,4 @@
-# 6.2. Dienste
+# 6.2. Services
 
-Für den Betrieb von Goobi werden verschiedene Dienste benötigt. Diese werden auf den folgenden Seiten detailliert beschrieben.
+To let Goobi run several services are required as dependency. These services get explained on the following pages.
 

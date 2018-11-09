@@ -1,4 +1,4 @@
-# 6.1. Dateisystem
+# 6.1. File system
 
-Da Goobi als Workflow-Software im bibliothekarischen Kontext mit einer Vielzahl von individuellen Konfigurationen und projektspezifischen Besonderheiten umgehen können muss, hat sich bewährt, sich hierbei an etablierte Konventionen zu halten. Dazu gehören unter anderem auch die einzelnen Verzeichnisstrukturen, wie sie von Goobi für die unterschiedlichen Bereiche der Anwendung verwendet werden. In diesem Abschnitt soll darauf näher eingegangen werden, welche Verzeichnisstrukturen sich bewährt haben. Des Weiteren wird darauf eingegangen, wie ein externer Datenspeicher in das System eingebunden wird.
+As a workflow management application for the library environment, Goobi has to be able to deal with a wide range of specific configurations and project-specific requirements. To this end, it has been designed in line with established conventions. These cover individual directory structures and the way Goobi uses these structures in different areas of the application. This section outlines the directory structures that have proven most effective and explains how external storage is integrated into the system.
 

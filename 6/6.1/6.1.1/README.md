@@ -1,14 +1,14 @@
-# 6.1.1. Globale Verzeichnisstruktur
+# 6.1.1. Global directory structure
 
-Da Goobi als Webapplikation in Betrieb genommen wird, verfügt es selbst über einen vorgegebenen Aufbau und befindet sich abhängig vom verwendeten Servlet Container an einem definierten Pfad im Dateisystem. In diesem Abschnitt soll jedoch darauf eingegangen werden, wie die Verzeichnisstrukturen aussehen sollten, innerhalb derer Goobi seine Daten sowie die unterschiedlichen Konfigurationsdateien verwaltet.
+As a web-based application, Goobi has its own structure and is located on a defined path in the file system independently of the servlet container being used. This section explains how to organise the directory structures within which Goobi saves its data and the different configuration files.
 
-Der Basispfad für sämtliche Digitalisierungssoftware im Kontext von Goobi lautet:
+The base path for all digitisation software in the Goobi environment is:
 
 ```bash
 /opt/digiverso/
 ```
 
-Im Bereich dieses Basispfades bestehen im Allgemeinen folgende Verzeichnisse:
+The following directories are usually located on this base path:
 
 ```bash
 /opt/digiverso/goobi/
@@ -17,15 +17,15 @@ Im Bereich dieses Basispfades bestehen im Allgemeinen folgende Verzeichnisse:
 /opt/digiverso/viewer/
 ```
 
-Das Verzeichnis logs ist hierbei das zentrale Verzeichnis für Logdateien. Auch die Goobi-Log-Dateien werden bei korrekter Konfiguration an dieser Stelle gespeichert. Die anderen hier aufgeführten Verzeichnisse stehen jeweils für unterschiedliche Applikationen, wie sie häufig Verwendung finden \(z.B. viewer für intranda viewer, itm für intranda Task Manager und goobi für Goobi.
+The `logs` directory is the main directory for log files. Goobi log files are also stored here \(assuming the system is properly configured\). The other directories listed above relate to frequently used applications \(e.g. `viewer` for the Goobi viewer, `itm` for the intranda Task Manager and `goobi` for Goobi.
 
-Der Basispfad für Goobi lautet entsprechend:
+The base path for Goobi is:
 
 ```bash
 /opt/digiverso/goobi/
 ```
 
-Unterhalb dieses Basispfades findet sich üblicherweise die folgende Ordnerstruktur, die im Folgenden auch detailliert beschrieben wird:
+In most cases, this base path will accommodate the following folder structure \(see below for details of each sub-directory\):
 
 ```bash
 /opt/digiverso/goobi/config/
