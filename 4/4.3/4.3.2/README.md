@@ -1,4 +1,4 @@
-# 4.3.2. Metadaten bearbeiten
+# 4.3.2. Metadata indexing
 
-Der Metadateneditor verfügt über eine Navigationsleiste für die einzelnen Arbeitsschritte der Metadatenerfassung. Schalten Sie mit den Bereichen `Paginierung`, `Strukturdaten`, `Metadaten` und `Austausch von Dateien` zwischen den einzelnen Bearbeitungsmodi innerhalb des Editors um. Die im Folgenden detailliert beschriebenen Arbeitsschritte sollten dabei in der hier vorgegebenen Reihenfolge durchlaufen werden
+The main area of the Metadata Editor also contains a navigation bar to perform a range of steps during metadata indexing. Selecting `Pagination`, `Structure data`, `Metadata` and `File replacement` allows you to switch between the individual editing modes in the Metadata Editor. Each of these modes is explained in greater detail below and should be performed in the specified order.
 
