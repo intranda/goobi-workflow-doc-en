@@ -1,10 +1,10 @@
-# 4.3. Metadateneditor
+# 4.3. Metadata Editor
 
-Der Metadateneditor von Goobi ist eine der zentralen Komponenten, die im Kontext von Digitalisierungsprojekten Verwendung findet. Die Arbeiten innerhalb des Metadateneditors erfolgen dabei in den meisten Fällen durch ausgebildete Bibliothekare. In diesen Metadateneditor gelangt man auf zwei unterschiedliche Wege. Für Administratoren oder Benutzer innerhalb von Goobi, die mit der Projektleitung betraut sind, besteht die Möglichkeit, aus der Anzeige der Vorgänge zu jedem einzelnen Vorgang unabhängig vom derzeitigen Workflowstatus jederzeit in die Maske zur Bearbeitung der Struktur- und Metadaten zu gelangen.
+Goobi’s Metadata Editor is one of the core elements of digitisation projects. Most work involving the Metadata Editor is performed by trained librarians. There are two ways to open the Metadata Editor. Administrators and project managers can open the screen for processing structure data and metadata at any time from any individual process listed in the process view page, regardless of its workflow status.
 
-![Metadateneditor erreichbar f&#xFC;r jeden Vorgang in Goobi unabh&#xE4;ngig vom aktuellen Status des Workflows](../../.gitbook/assets/035d.png)
+![Metadata Editor &#x2013; accessible for any process in Goobi regardless of the current workflow status](../../.gitbook/assets/035d.png)
 
-Für Benutzer, die solche erweiterten Rechte in Goobi nicht besitzen, besteht die Möglichkeit, über den Bereich Meine Aufgaben nur zu denjenigen Arbeitsschritten in den Metadateneditor zu gelangen, für die sie als zuständiger Mitarbeiter eingetragen sind.
+Users with a more restricted level of authorisation can access the Metadata Editor through the `My tasks` area but can only perform those workflow steps for which they have been designated as the responsible user.
 
-![Metadateneditor erreichbar f&#xFC;r zust&#xE4;ndige Benutzer aus dem Bereich &#x201A;Meine Aufgaben&#x2019;](../../.gitbook/assets/036d.png)
+![Metadata Editor &#x2013; accessible to authorised users from the &#x2018;My tasks&#x2019; area](../../.gitbook/assets/036d.png)
 

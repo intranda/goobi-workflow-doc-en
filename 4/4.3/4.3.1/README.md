@@ -1,6 +1,6 @@
-# 4.3.1. Oberfläche
+# 4.3.1. User interface
 
-Nachdem Sie den Metadateneditor geöffnet haben, haben Sie einen vollen Zugriff auf sämtliche Bearbeitungsmöglichkeiten für die Bereiche der Paginierung, der Strukturdaten sowie der Metadaten eines Digitalisates. Der Metadateneditor unterteilt sich in mehrere Bereiche.
+Once you have opened the Metadata Editor, you have full access to all the editing options relating to the pagination, structure data and metadata of the digitised material. The Metadata Editor is divided into a number of sections.
 
-![Die verschiedenen Bereiche des Metadateneditors](../../../.gitbook/assets/37d.png)
+![The different sections making up the Metadata Editor](../../../.gitbook/assets/37d.png)
 
