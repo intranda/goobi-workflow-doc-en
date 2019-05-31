@@ -22,7 +22,7 @@
 * [3. How different user groups work with Goobi](user/3/README.md)
   * [3.1. Scanning](user/3/3.1.md)
   * [3.2. Quality control](user/3/3.2.md)
-  * [3.3. Manual script-run steps](user/3/3.3.md)
+  * [3.3. Manual script steps and plugin steps](user/3/3.3.md)
   * [3.4. Automatic script-run steps](user/3/3.4.md)
   * [3.5. Metadata processing](user/3/3.5.md)
   * [3.6. Export to the DMS](user/3/3.6.md)
