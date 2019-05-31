@@ -37,12 +37,12 @@
       * [4.2.2.1. Create new structure element](user/4-1/4.2/4.2.2/4.2.2.1.md)
       * [4.2.2.2. Moving structure elements](user/4-1/4.2/4.2.2/4.2.2.2.md)
       * [4.2.2.3. Copying structure elements from other processes](user/4-1/4.2/4.2.2/4.2.2.3.md)
-    * [4.3. Modifying and verifying data](user/4-1/4.2/4.3/README.md)
-      * [4.3.1. Subsequent changes to pagination](user/4-1/4.2/4.3/4.3.1.md)
-      * [4.3.2. Uploading files](user/4-1/4.2/4.3/4.3.2.md)
-      * [4.3.3. Downloading files](user/4-1/4.2/4.3/4.3.3.md)
-      * [4.3.4. Server-based exports](user/4-1/4.2/4.3/4.3.4.md)
-      * [4.3.5. Server-based imports](user/4-1/4.2/4.3/4.3.5.md)
+  * [4.3. Modifying and verifying data](user/4-1/4.3/README.md)
+    * [4.3.1. Subsequent changes to pagination](user/4-1/4.3/4.3.1.md)
+    * [4.3.2. Uploading files](user/4-1/4.3/4.3.2.md)
+    * [4.3.3. Downloading files](user/4-1/4.3/4.3.3.md)
+    * [4.3.4. Server-based exports](user/4-1/4.3/4.3.4.md)
+    * [4.3.5. Server-based imports](user/4-1/4.3/4.3.5.md)
 
 ## Management
 
