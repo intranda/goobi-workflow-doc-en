@@ -87,6 +87,10 @@
   * [6.1. Example combination for an automatic script task](admin/6/6.1.md)
   * [6.2. Migration of technical data to METS files](admin/6/6.2.md)
   * [6.3. Automatic image deletion](admin/6/6.3.md)
+  * [7. Configuration files](admin/6/7/README.md)
+    * [7.1 goobi\_digitalCollections.xml](admin/6/7/7.1.md)
+    * [7.2 goobi\_opac.xml](admin/6/7/7.2.md)
+    * [7.3 goobi\_metadataDisplayRules.xml](admin/6/7/7.3.md)
 
 ## Developers
 
