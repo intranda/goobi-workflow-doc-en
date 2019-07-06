@@ -4,7 +4,7 @@
 * [Overview of documentation](1.md)
 * [What is Goobi?](2.md)
 
-## Users
+## Users <a id="user"></a>
 
 * [1. Goobi for Users](user/1.md)
 * [2.  The basics](user/2/README.md)
@@ -44,7 +44,7 @@
     * [4.3.4. Server-based exports](user/4/4.3/4.3.4.md)
     * [4.3.5. Server-based imports](user/4/4.3/4.3.5.md)
 
-## Management
+## Management <a id="manager"></a>
 
 * [1. Goobi Management](manager/1.md)
 * [2. Structure of the extended user interface](manager/2.md)
@@ -59,7 +59,7 @@
   * [7.4. GoobiScript](manager/7/7.4.md)
 * [8. Variablensystem](manager/8.md)
 
-## Administration
+## Administration <a id="admin"></a>
 
 * [1. Goobi Administration](admin/1.md)
 * [2. File system](admin/2/README.md)
@@ -92,7 +92,7 @@
   * [7.2 goobi\_opac.xml](admin/7/7.2.md)
   * [7.3 goobi\_metadataDisplayRules.xml](admin/7/7.3.md)
 
-## Developers
+## Developers <a id="dev"></a>
 
 ## Other
 
