@@ -57,7 +57,7 @@
   * [7.2. Activity](manager/7/7.2.md)
   * [7.3. Activities for hit lists](manager/7/7.3.md)
   * [7.4. GoobiScript](manager/7/7.4.md)
-* [8. Variablensystem](manager/8.md)
+* [8. Variables](manager/8.md)
 
 ## Administration <a id="admin"></a>
 
