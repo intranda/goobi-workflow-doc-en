@@ -98,8 +98,8 @@
 
 ## developer <a id="dev"></a>
 
-* [1. API Descriptions](dev/1.-api-descriptions/README.md)
-  * [1.1. REST API](dev/1.-api-descriptions/1.1.md)
+* [1. API Descriptions](dev/1/README.md)
+  * [1.1. REST API](dev/1/1.1.md)
 
 ## Other
 
