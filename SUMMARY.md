@@ -96,6 +96,11 @@
   * [8.1 Installation guide - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installation guide - Ubuntu 18.04](admin/8/8.2.md)
 
+## developer <a id="dev"></a>
+
+* [1. API Descriptions](dev/1.-api-descriptions/README.md)
+  * [1.1. REST API](dev/1.-api-descriptions/1.1.-rest-api.md)
+
 ## Other
 
 * [Glossary](other/1.md)
