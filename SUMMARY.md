@@ -97,6 +97,13 @@
 * [8. Installation guide](admin/8/README.md)
   * [8.1 Installation guide - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installation guide - Ubuntu 18.04](admin/8/8.2.md)
+* [9. Update guide](admin/9/README.md)
+  * [9.1. Preparation of an update](admin/9/9.1.md)
+  * [9.2. Update steps](admin/9/9.2.md)
+* [10. Authentication options](admin/10/README.md)
+  * [10.1. Authentication via the database](admin/10/10.1.md)
+  * [10.2. Authentication via HTTP header](admin/10/10.2.md)
+  * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
 
 ## developer <a id="dev"></a>
 
