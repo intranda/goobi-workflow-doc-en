@@ -66,7 +66,8 @@
   * [2.1. Global directory structure](admin/2/2.1/README.md)
     * [2.1.1. ‘config’ sub-directory](admin/2/2.1/2.1.1.md)
     * [2.1.2. ‘import’ sub-directory](admin/2/2.1/2.1.2.md)
-    * [2.1.3.  ‘metadata’ sub-directory](admin/2/2.1/2.1.3.md)
+    * [2.1.3.  ‘metadata’ sub-directory](admin/2/2.1/2.1.3/README.md)
+      * [2.1.3.1. 3D Objekte](admin/2/2.1/2.1.3/2.1.3.1.-3d-objekte.md)
     * [2.1.4. ‘plugins’ sub-directory](admin/2/2.1/2.1.4.md)
     * [2.1.5. ‘rulesets’ sub-directory](admin/2/2.1/2.1.5.md)
     * [2.1.6. ‘scripts’ sub-directory](admin/2/2.1/2.1.6.md)
@@ -96,6 +97,13 @@
 * [8. Installation guide](admin/8/README.md)
   * [8.1 Installation guide - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installation guide - Ubuntu 18.04](admin/8/8.2.md)
+* [9. Update guide](admin/9/README.md)
+  * [9.1. Preparation of an update](admin/9/9.1.md)
+  * [9.2. Update steps](admin/9/9.2.md)
+* [10. Authentication options](admin/10/README.md)
+  * [10.1. Authentication via the database](admin/10/10.1.md)
+  * [10.2. Authentication via HTTP header](admin/10/10.2.md)
+  * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
 
 ## developer <a id="dev"></a>
 
