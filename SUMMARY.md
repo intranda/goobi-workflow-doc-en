@@ -106,6 +106,7 @@
   * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
 * [11. Use cases](admin/11/README.md)
   * [11.1. Create thumbnails for accelerated image display](admin/11/11.1.md)
+  * [11.2 Export of 3D-Objects into the Goobi viewer](admin/11/11.2.md)
 
 ## developer <a id="dev"></a>
 
@@ -116,4 +117,3 @@
 
 * [Glossary](other/1.md)
 * [Further details](other/2.md)
-
