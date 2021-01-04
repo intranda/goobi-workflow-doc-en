@@ -93,7 +93,7 @@
   * [7.2 goobi\_opac.xml](admin/7/7.2.md)
   * [7.3 goobi\_metadataDisplayRules.xml](admin/7/7.3.md)
   * [7.4 goobi\_mail.xml](admin/7/7.4.md)
-  * [7.5 goobi\_rest.xml](admin/7/7.5-goobi_rest.xml.md)
+  * [7.5 goobi\_rest.xml](admin/7/7.5.md)
 * [8. Installation guide](admin/8/README.md)
   * [8.1 Installation guide - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installation guide - Ubuntu 18.04](admin/8/8.2.md)
@@ -112,8 +112,3 @@
 
 * [1. API Descriptions](dev/1/README.md)
   * [1.1. REST API](dev/1/1.1.md)
-
-## Other
-
-* [Glossary](other/1.md)
-* [Further details](other/2.md)
