@@ -111,3 +111,6 @@
 ## developer <a id="dev"></a>
 
 * [1. Using the REST API](dev/1.md)
+* [2. Snippets for development to Goobi workflow](dev/2/README.md)
+  * [2.1 HTML](dev/2/2.1.md)
+  * [2.2 JavaScript](dev/2/2.2.md)
