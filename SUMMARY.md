@@ -96,7 +96,7 @@
   * [7.5 goobi\_rest.xml](admin/7/7.5.md)
   * [7.6 goobi\_projects.xml](admin/7/7.6.md)
 * [8. Installation guide](admin/8/README.md)
-  * [8.1 Installation guide - Ubuntu 16.04](admin/8/8.1.md)
+  * [8.1 Installation guide - Ubuntu 20.04](admin/8/8.1.md)
   * [8.2 Installation guide - Ubuntu 18.04](admin/8/8.2.md)
 * [9. Update guide](admin/9/README.md)
   * [9.1. Preparation of an update](admin/9/9.1.md)
