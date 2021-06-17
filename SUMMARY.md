@@ -43,6 +43,7 @@
     * [4.3.3. Downloading files](user/4/4.3/4.3.3.md)
     * [4.3.4. Server-based exports](user/4/4.3/4.3.4.md)
     * [4.3.5. Server-based imports](user/4/4.3/4.3.5.md)
+  * [4.4. Edit OCR results](user/4/4.4/README.md)
 
 ## Management <a id="manager"></a>
 
