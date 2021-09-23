@@ -75,6 +75,7 @@
     * [2.1.7. ‘xslt’ sub-directory](admin/2/2.1/2.1.7.md)
   * [2.2. Directory structure of the application](admin/2/2.2.md)
   * [2.3. Integrating external storage](admin/2/2.3.md)
+  * [2.4. Integration of S3 as storage](admin/2/2.4.md)
 * [3. Services](admin/3/README.md)
   * [3.1. MySQL database](admin/3/3.1.md)
   * [3.2. Apache Tomcat servlet container](admin/3/3.2.md)
