@@ -106,7 +106,7 @@
 * [10. Authentication options](admin/10/README.md)
   * [10.1. Authentication via the database](admin/10/10.1.md)
   * [10.2. Authentication via HTTP header](admin/10/10.2.md)
-  * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
+  * [10.3. Authentication via OpenID Connect](admin/10/10.3.md)
 * [11. Use cases](admin/11/README.md)
   * [11.1. Create thumbnails for accelerated image display](admin/11/11.1.md)
   * [11.2 Export of 3D-Objects into the Goobi viewer](admin/11/11.2.md)
