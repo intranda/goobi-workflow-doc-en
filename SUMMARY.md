@@ -110,10 +110,14 @@
   * [11.1. Create thumbnails for accelerated image display](admin/11/11.1.md)
   * [11.2 Export of 3D-Objects into the Goobi viewer](admin/11/11.2.md)
 
-## developer <a id="dev"></a>
+## Developer <a id="dev"></a>
 
-* [1. Using the REST API](dev/1.md)
-* [2. Snippets for the development on Goobi workflow](dev/2/README.md)
-  * [2.1 HTML](dev/2/2.1.md)
-  * [2.2 JavaScript](dev/2/2.2.md)
-
+* [1. Setting up a development environment](dev/1/README.md)
+  * [1.1 Preparatory work](dev/1/1.1.md)
+  * [1.2 Setting up Eclipse](dev/1/1.2.md)
+  * [1.3 Resetting the data](dev/1/1.3.md)
+  * [1.4 Best Practice](dev/1/1.4.md)
+* [2. Using the REST API](dev/2.md)
+* [3. Snippets for the development on Goobi workflow](dev/3/README.md)
+  * [3.1 HTML](dev/3/3.1.md)
+  * [3.2 JavaScript](dev/3/3.2.md)
