@@ -55,7 +55,7 @@
 * [5. Users](manager/5.md)
 * [6. User groups](manager/6.md)
 * [7. Processes](manager/7/README.md)
-  * [7.1. Filtering processes](manager/7/7.1.md)
+  * [7.1. Searching processes](manager/7/7.1.md)
   * [7.2. Activity](manager/7/7.2.md)
   * [7.3. Activities for hit lists](manager/7/7.3.md)
   * [7.4. GoobiScript](manager/7/7.4.md)
