@@ -111,6 +111,7 @@
 * [9. Update guide](admin/9/README.md)
   * [9.1. Preparation of an update](admin/9/9.1.md)
   * [9.2. Update steps](admin/9/9.2/README.md)
+    * [2024](admin/9/9.2/2024.md)
     * [2023](admin/9/9.2/2023.md)
     * [2022](admin/9/9.2/2022.md)
     * [2021](admin/9/9.2/2021.md)
