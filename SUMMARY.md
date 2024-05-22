@@ -19,6 +19,7 @@
   * [2.9. Processes](user/2/2.9.md)
   * [2.10. How to find a process](user/2/2.10.md)
   * [2.11. How to create a new process](user/2/2.11.md)
+  * [2.12. Edit task details](user/2/2.12.md)
 * [3. How different user groups work with Goobi](user/3/README.md)
   * [3.1. Scanning](user/3/3.1.md)
   * [3.2. Quality control](user/3/3.2.md)
