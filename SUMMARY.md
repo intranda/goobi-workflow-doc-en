@@ -60,6 +60,7 @@
   * [7.3. Activities for hit lists](manager/7/7.3.md)
   * [7.4. GoobiScript](manager/7/7.4.md)
 * [8. Variables](manager/8.md)
+* [9. Harvester](manager/9.md)
 
 ## Administration <a href="#admin" id="admin"></a>
 
